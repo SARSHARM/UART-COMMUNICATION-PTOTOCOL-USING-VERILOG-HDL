@@ -1,6 +1,8 @@
 # UART Communication Protocol Design
 
 ![UART ](https://github.com/user-attachments/assets/2626127d-b922-4b35-94fc-83a3f63301f3)\
+![image](https://github.com/user-attachments/assets/6f139d14-0227-4f7c-9a5f-c3af9130dcf1)
+
 
 A Verilog implementation of a UART (Universal Asynchronous Receiver/Transmitter) module with configurable baud rates, error detection, and testbenches for simulation.
 
